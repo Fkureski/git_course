@@ -2,3 +2,6 @@ Testing project cloning
 a
 a
 a
+b
+b
+b
