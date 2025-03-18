@@ -1,0 +1,3 @@
+[submodule "3_repo_prod/submodule"]
+	path = 3_repo_prod/submodule
+	url = https://github.com/Fkureski/git_course_submodule.git
